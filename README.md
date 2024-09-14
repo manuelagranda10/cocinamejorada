@@ -1,2 +1,2 @@
-# primer-blog
-blog mejorado de maquillaje
+# cocina
+blog cocina mejorado
